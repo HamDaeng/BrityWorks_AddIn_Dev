@@ -1,0 +1,43 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <!-- Message Title (MSG_TITLE_ooo) -->
+    <system:String x:Key="MSG_TITLE_SAMPLE">Title Sample</system:String>
+
+    <!-- Message Contents (MSG_ooo) -->
+    <system:String x:Key="MSG_SAMPLE">This is a sample.</system:String>
+
+    <!-- Property 
+      Res Key format('_')  : PROP_[AddInName]_[PropertyGroup]_[PropertyName]  (Basic - It's for all properties in addin)
+      Res Key format2('_') : PROP_[AddInName]_[PropertyGroup]_[PropertyName]_[ActivityName] (Overwrite - It's only for the specified activity)
+      Contents format('\') : [Display Property Group]\[Display Property Name]
+      * PropertyView groups properties by 'Display Property Group'
+    -->
+    <system:String x:Key="PROP_Hyper_Close_Prop1">메뉴\</system:String>
+    <system:String x:Key="PROP_Hyper_Close_Prop2">메뉴\[Input] Find 객체 / hwnd 입력 (*)</system:String>
+    <system:String x:Key="PROP_Hyper_Close_Prop3">메뉴\강제 종료 (*)</system:String>
+    <system:String x:Key="PROP_Hyper_Close_Prop4">메뉴\객체입력 / hwnd 직접입력(*)</system:String>
+
+    <system:String x:Key="PROP_Hyper_Capture_Prop1">옵션\</system:String>
+    <system:String x:Key="PROP_Hyper_Capture_Prop2">옵션\[Input] Chorme Find 객체 (*)</system:String>
+    <system:String x:Key="PROP_Hyper_Capture_Prop3">옵션\[Input] 저장 경로 (*)</system:String>
+    <system:String x:Key="PROP_Hyper_Capture_Prop4">옵션\[Input] 파일명 (기본값 Image) (*)</system:String>
+    <system:String x:Key="PROP_Hyper_Capture_Prop5">옵션\[Input] 파일 형식</system:String>
+
+    <!-- Property Description
+      Res Key format1('_') : DESC_[AddinName]_[PropertyGroup]_[PropertyName]  (Basic - It's for all properties in addin)
+      Res Key format2('_') : DESC_[AddinName]_[PropertyGroup]_[PropertyName]_[ActivityName] (Overwrite - It's only for the specified activity)
+    -->
+    <system:String x:Key="DESC_Hyper_GPT_Prop1">질문에 대한 결과값을 반환합니다.</system:String>
+    <system:String x:Key="DESC_Hyper_GPT_Prop2">발급받은 API Key를 입력해주세요.</system:String>
+    <system:String x:Key="DESC_Hyper_GPT_Prop3">ChatGPT 에게 질문할 내용을 작성해주세요.</system:String>
+
+
+    <system:String x:Key="DESC_Hyper_Capture_Prop1">true/false 값을 반환합니다.</system:String>
+    <system:String x:Key="DESC_Hyper_Capture_Prop2">Chrome Find카드를 이용해 찾은 대상을 입력해 주세요.</system:String>
+    <system:String x:Key="DESC_Hyper_Capture_Prop3">저장 경로를 입력해 주세요.</system:String>
+    <system:String x:Key="DESC_Hyper_Capture_Prop4">파일 확장자는 입력하지 말아주세요.</system:String>
+
+</ResourceDictionary>

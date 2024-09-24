@@ -1,0 +1,24 @@
+C:\Users\hyper\AppData\Roaming\Brity RPA Designer\AddIns\BrityWorks.AddIn.Hyper.dll.config
+C:\Users\hyper\AppData\Roaming\Brity RPA Designer\AddIns\BrityWorks.AddIn.Hyper.dll
+C:\Users\hyper\AppData\Roaming\Brity RPA Designer\AddIns\BrityWorks.AddIn.Hyper.pdb
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.AssemblyReference.cache
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\Resources\String\String-en-US.baml
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\Resources\String\String-ko-KR.baml
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper_MarkupCompile.cache
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.g.resources
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.Properties.Resources.resources
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.GenerateResource.cache
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.CoreCompileInputs.cache
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.CopyComplete
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.dll
+C:\Users\hyper\Desktop\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.pdb
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.AssemblyReference.cache
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\Resources\String\String-en-US.baml
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\Resources\String\String-ko-KR.baml
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper_MarkupCompile.cache
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.g.resources
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.Properties.Resources.resources
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.GenerateResource.cache
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.csproj.CoreCompileInputs.cache
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.dll
+C:\Users\hyper\Desktop\코드\Addin Dev\BrityWorks.AddIn.Hyper\obj\Debug\BrityWorks.AddIn.Hyper.pdb
